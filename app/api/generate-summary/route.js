@@ -81,7 +81,7 @@ import { NextResponse } from "next/server";
 
 
 const client = new OpenAI({
-  apiKey: process.env.OPENROUTER_API_KEY,
+  apiKey: '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' ||  process.env.OPENROUTER_API_KEY,
   baseURL: "https://openrouter.ai/api/v1",
 });
 
