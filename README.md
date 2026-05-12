@@ -16,19 +16,19 @@ https://ai-spend-audit-fawn.vercel.app/
 ## Screenshots
 
 ### Landing Page
-![Landing Page](/screenshots/home1.png)
-![Landing Page](/screenshots/home2.png)
-![Landing Page](/screenshots/home3.png)
+![Landing Page](https://ai-spend-audit-fawn.vercel.app//screenshots/home1.png)
+![Landing Page](https://ai-spend-audit-fawn.vercel.app//screenshots/home2.png)
+![Landing Page](https://ai-spend-audit-fawn.vercel.app//screenshots/home3.png)
 
 ### Audit Form
-![Audit Form](/screenshots/auditForm1.png)
-![Audit Form](/screenshots/auditForm2.png)
+![Audit Form](https://ai-spend-audit-fawn.vercel.app//screenshots/auditForm1.png)
+![Audit Form](https://ai-spend-audit-fawn.vercel.app//screenshots/auditForm2.png)
 
 ### Audit Results Dashboard
-![Results](/screenshots/resultpage1.png)
-![Results](/screenshots/resultpage2.png)
-![Results](/screenshots/resultpage3.png)
-![Results](/screenshots/resultpage4.png)
+![Results](https://ai-spend-audit-fawn.vercel.app//screenshots/resultpage1.png)
+![Results](https://ai-spend-audit-fawn.vercel.app//screenshots/resultpage2.png)
+![Results](https://ai-spend-audit-fawn.vercel.app//screenshots/resultpage3.png)
+![Results](https://ai-spend-audit-fawn.vercel.app//screenshots/resultpage4.png)
 
 ---
 
