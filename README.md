@@ -9,26 +9,26 @@ Built for founders, operations teams, and growing startups that use multiple AI 
 # Live Demo
 
 Deployed URL:  
-[Add Your Deployment URL Here]
+https://ai-spend-audit-fawn.vercel.app/
 
 ---
 
-# Screenshots
+## Screenshots
 
-## Landing Page
-![Landing Page ](./screenshots/home1.png)
-![Landing Page ](./screenshots/home2.png)
-![Landing Page ](./screenshots/home3.png)
+### Landing Page
+![Landing Page](/screenshots/home1.png)
+![Landing Page](/screenshots/home2.png)
+![Landing Page](/screenshots/home3.png)
 
-## Audit Form
-![Audit Form](./screenshots/auditForm1.png)
-![Audit Form](./screenshots/auditForm2.png)
+### Audit Form
+![Audit Form](/screenshots/auditForm1.png)
+![Audit Form](/screenshots/auditForm2.png)
 
-## Audit Results Dashboard
-![Results Dashboard](./screenshots/resultpage1.png)
-![Results Dashboard](./screenshots/resultpage2.png)
-![Results Dashboard](./screenshots/resultpage3.png)
-![Results Dashboard](./screenshots/resultpage4.png)
+### Audit Results Dashboard
+![Results](/screenshots/resultpage1.png)
+![Results](/screenshots/resultpage2.png)
+![Results](/screenshots/resultpage3.png)
+![Results](/screenshots/resultpage4.png)
 
 ---
 
