@@ -83,7 +83,7 @@ https://ai-spend-audit-fawn.vercel.app/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AJAY8839/frontend
+git clone https://github.com/ajayrajak3172004/ai-spend-audit
 ```
 
 ---
